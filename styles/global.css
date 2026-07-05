@@ -9,12 +9,10 @@
   --color-brand-foreground: #fafafa;
   --color-brand-muted: #a1a1aa;
   --color-brand-accent: #3b82f6;
-
+  
   /* Glassmorphism primitives */
   --overlay-blur: blur(12px);
 }
-
-
 
 /* Custom Base Layer Adjustments for Next.js 15 & Light/Dark Paradigms */
 @layer base {

@@ -1,0 +1,1 @@
+export default function OverviewPage() { return <div className="text-zinc-100 font-sans">System Matrix Online</div>; }
